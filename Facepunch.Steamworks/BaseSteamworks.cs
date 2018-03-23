@@ -20,6 +20,8 @@ namespace Facepunch.Steamworks
         public Inventory Inventory { get; internal set; }
         public Workshop Workshop { get; internal set; }
 
+		public string SteamUILanguage { get { return native.utils.GetSteamUILanguage(); } }
+
         internal event Action OnUpdate;
 
         internal Interop.NativeInterface native;

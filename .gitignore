@@ -53,6 +53,7 @@ Facepunch.Steamworks.Test/bin/Debug/Microsoft.VisualStudio.QualityTools.UnitTest
 Facepunch.Steamworks.Test/bin/Release/Facepunch.Steamworks.dll
 Facepunch.Steamworks.Test/bin/Release/Facepunch.Steamworks.Test.dll
 Facepunch.Steamworks.Test/bin/Release/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Facepunch.Steamworks.Test/bin/Release/Newtonsoft.Json.dll
 *.user
 *.cache
 *.idea
